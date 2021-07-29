@@ -1,0 +1,45 @@
+.cbr-honda{
+    background-color: #264653;
+    width: 100%;
+    
+    overflow-x: hidden;
+
+}
+.cbr-descript{
+    color: #E0E0E0
+}
+.btn-purcase{
+    background-color: #E76F51;
+    color: white;
+}
+.featcher-bike{
+    font-size: 2rem;
+    line-height: 1.4;
+    text-align: center;
+    color: black;
+}
+.collection{
+    color: red;
+    text-align: center;
+}
+.gray-images{
+    filter: grayscale(100%);
+}
+.khushi{
+    color: #0A0826;
+    font-size: 3rem;
+    text-align: center;
+}
+.customer{
+    color: #E76F51;
+    font-size: 3rem;
+    text-align: center;
+}
+#rating{
+    color: #E76F51;
+    width: 20px;
+}
+#ratings{
+    color: #E76F51;
+    width: 50px;
+}
